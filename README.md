@@ -11,5 +11,3 @@ Term: Fall 2021
 + This project is conducted by Yi Yu
 
 + Project summary: There are certain similarties including word frequency, sentence length, sentiment and emotions between different schools of philosophy.
-examining if there is pronoun bias present throughout the history of philosophy. We conclude that there is a bias towards male associated pronouns.
-
